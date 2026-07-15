@@ -72,7 +72,7 @@ The deployment was tested by:
 
 ### Auto Scaling Group
 
-<img width="3150" height="555" alt="04-ASG" src="https://github.com/user-attachments/assets/78d9d1af-e0cb-4f2b-897c-e5b081944945" />
+<img width="3141" height="462" alt="04-ASG" src="https://github.com/user-attachments/assets/6fd2ae6e-2ce4-49d1-9ece-dae0000a77d5" />
 
 
 ### CloudFront Distribution
